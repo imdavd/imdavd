@@ -2,10 +2,10 @@
 <br>
 
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/imdavd)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](--link--)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)]()
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdavd&layout=compact)](--link--)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdavd&layout=compact)]()
 
 ![ David GitHub stats](https://github-readme-stats.vercel.app/api?username=imdavd&show_icons=true&theme=radical)
 
