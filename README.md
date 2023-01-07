@@ -1,8 +1,8 @@
 ### Olá, eu sou o David 👋
 <br>
 
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)]()
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)]()
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://github.com/imdavd)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://github.com/imdavd)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdavd&layout=compact)](https://github.com/imdavd/github-readme-stats)
