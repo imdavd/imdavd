@@ -1,4 +1,6 @@
 ### Olá, eu sou o David 👋
+
+### Cursando Desenvolvimento de Sistemas SENAI CTTI 💻
 <br>
 
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://github.com/imdavd)
