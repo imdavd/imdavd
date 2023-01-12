@@ -6,7 +6,7 @@
 ### Cursando Desenvolvimento de Sistemas SENAI CTTI 💻
 <br>
 
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/imdavd)
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/imdavd) <a target="_blanlk">
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/imdavd)
 
 
