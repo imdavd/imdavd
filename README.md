@@ -6,7 +6,7 @@
 ### Cursando Desenvolvimento de Sistemas SENAI CTTI 💻
 <br>
 
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/imdavd) <a target="_blanlk">
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/imdavd)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/imdavd)
 
 
@@ -19,6 +19,8 @@
 ### English Version 🌐
 
 ### Actually studying and keeping improve my skills with the focus on Front-End 🚀 ❤
+
+<br>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
