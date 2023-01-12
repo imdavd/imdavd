@@ -1,15 +1,14 @@
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/imdavd/5de7231512b013f0ffa7cc55d7626f5b/raw/903b8033a02a2bd134c28c53fb7502815aaf54f4/githubcard.svg">
+
+
 ### Olá, eu sou o David 👋
 
 ### Cursando Desenvolvimento de Sistemas SENAI CTTI 💻
 <br>
 
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://github.com/imdavd)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://github.com/imdavd)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/imdavd)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdavd&layout=compact)](https://github.com/imdavd/github-readme-stats)
-
-![ David GitHub stats](https://github-readme-stats.vercel.app/api?username=imdavd&show_icons=true&theme=radical)
 
 
 <div style="display: inline_block"><br/>
