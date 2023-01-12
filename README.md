@@ -18,6 +18,8 @@
 
 ### English Version 🌐
 
+<br>
+
 ### Hi, I am David 👋
 
 ### Studying System Development at SENAI CTTI 💻
